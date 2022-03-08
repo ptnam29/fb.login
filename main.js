@@ -1,0 +1,1 @@
+alert('WARNING: Hệ thống của bạn đã bị tấn công')
